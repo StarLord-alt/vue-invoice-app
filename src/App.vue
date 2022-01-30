@@ -1,4 +1,5 @@
 <template>
+<!-- ceci est un test -->
 <div>
   <div v-if="!mobile" class="app flex flex-column">
     <Navigation />
