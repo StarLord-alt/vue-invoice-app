@@ -1,6 +1,6 @@
 <template>
   <div v-if="invoicesLoaded">
-    <div>test2</div>
+    <div>test3</div>
     <div v-if="!mobile" class="app flex flex-column">
       <Navigation />
       <div class="app-content flex flex-column">
