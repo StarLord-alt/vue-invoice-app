@@ -2,6 +2,7 @@
   <div v-if="invoicesLoaded">
     <div>test3</div>
     <div>test1.2</div>
+    <div>test1.8</div>
     <div v-if="!mobile" class="app flex flex-column">
       <Navigation />
       <div class="app-content flex flex-column">
